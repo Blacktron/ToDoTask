@@ -33,7 +33,7 @@
       "email": "your_email@email.com",
       "password": "12345678"
    }
-  ```
+   ```
 3. When you log in a JWT token will be generated and valid for the next 20 minutes
 
 Note: If login or registration failed for some reason a response with error message will be returned
